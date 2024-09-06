@@ -9,7 +9,7 @@
 - <b>ESP32</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](INSERTLINK)
 - <b>Digital Logic</b>
-  - [Ransomware Proof of Concept (Encrypter)](INSERTLINK)
+  - [NPN Inverter (NOT) Gate](https://github.com/Boonanak/NPN-Inverter-NOT-Gate-?tab=readme-ov-file#npn-inverter-not-gate)
 - <b>Analog Logic</b>
   - [Ransomware Proof of Concept (Encrypter)](INSERTLINK)
 - <b>Misc</b>
