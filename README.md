@@ -14,6 +14,8 @@
   - [NPN AND Gate](https://github.com/Boonanak/NPN-AND-Gate)
 - <b>Analog Logic</b>
   - [Ransomware Proof of Concept (Encrypter)](INSERTLINK)
+- <b>Debugging</b>
+  - [Ransomware Proof of Concept (Encrypter)](INSERTLINK)
 - <b>Misc</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](INSERTLINK)
 
