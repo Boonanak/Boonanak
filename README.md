@@ -19,6 +19,7 @@
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
   - [NE555 Timer - Monostable Mode](https://github.com/Boonanak/NE555-Timer-Monostable-Mode)
+  - [NE555 Timer - Bistable Mode](https://github.com/Boonanak/NE555-Timer-Bistable-Mode)
 
 <h2>📺 YouTube Videos</h2>
 
