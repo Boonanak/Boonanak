@@ -13,7 +13,7 @@
   - [NPN OR Gate](https://github.com/Boonanak/NPN-OR-Gate)
   - [NPN AND Gate](https://github.com/Boonanak/NPN-AND-Gate)
 - <b>Analog Logic</b>
-  - [Op Amp with Visualization 10/6/24](INSERTLINK)
+  - [NE555 Timer - Schmitt Trigger 10/6/24](INSERTLINK)
 - <b>Debugging</b>
   - [Op Amp Debugging 10/13/24](INSERTLINK)
 - <b>Misc</b>
