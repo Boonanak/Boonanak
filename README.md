@@ -3,31 +3,23 @@
 <h2>👨‍💻 Embedded Systems Projects:</h2>
 
 - <b>Arduino</b>
-  - [Praciting DS & Algos in Python](INSERTLINK)
+  - [Digital Clock with Alarm 9/20/24](INSERTLINK)
 - <b>Raspberry Pi</b>
-  - [Image Analysis Middleware](INSERTLINK)</b></i>
+  - [Modern Day Record Player 2/5/2025](INSERTLINK)</b></i>
 - <b>ESP32</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](INSERTLINK)
+  - [Smart Home Temperature and Humidity Monitor 12/8/24](INSERTLINK)
 - <b>Digital Logic</b>
   - [NPN Inverter (NOT) Gate](https://github.com/Boonanak/NPN-Inverter-NOT-Gate-)
   - [NPN OR Gate](https://github.com/Boonanak/NPN-OR-Gate)
   - [NPN AND Gate](https://github.com/Boonanak/NPN-AND-Gate)
 - <b>Analog Logic</b>
-  - [Ransomware Proof of Concept (Encrypter)](INSERTLINK)
+  - [Op Amp with Visualization 10/6/24](INSERTLINK)
 - <b>Debugging</b>
-  - [Ransomware Proof of Concept (Encrypter)](INSERTLINK)
+  - [Op Amp Debugging 10/13/24](INSERTLINK)
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
   - [NE555 Timer - Monostable Mode](https://github.com/Boonanak/NE555-Timer-Monostable-Mode)
   - [NE555 Timer - Bistable Mode](https://github.com/Boonanak/NE555-Timer-Bistable-Mode)
-
-<h2>📺 YouTube Videos</h2>
-
-- [A Day in the Life of a Cybersecurity Analyst](INSERTLINK)
-
-<h2>📄 Certifications</h2>
-
-- [A Day in the Life of a Cybersecurity Analyst](INSERTLINK)
 
 <h2> 🤳 Connect with me:</h2>
 
