@@ -18,6 +18,7 @@
   - [Ransomware Proof of Concept (Encrypter)](INSERTLINK)
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
+  - [NE555 Timer - Monostable Mode](https://github.com/Boonanak/NE555-Timer-Monostable-Mode)
 
 <h2>📺 YouTube Videos</h2>
 
