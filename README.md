@@ -3,7 +3,7 @@
 <h2>👨‍💻 Embedded Systems Projects:</h2>
 
 - <b>Arduino</b>
-  - [Digital Clock with Alarm 9/20/24](INSERTLINK)
+  - [Digital Clock with Alarm](https://github.com/Boonanak/Digital-Clock-with-Alarm)
 - <b>Raspberry Pi</b>
   - [Modern Day Record Player 2/5/2025](INSERTLINK)</b></i>
 - <b>ESP32</b>
