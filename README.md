@@ -15,7 +15,7 @@
 - <b>Analog Logic</b>
   - [NE555 Timer - Schmitt Trigger 10/6/24](INSERTLINK)
 - <b>Debugging</b>
-  - [Op Amp Debugging 10/13/24](INSERTLINK)
+  - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
   - [NE555 Timer - Monostable Mode](https://github.com/Boonanak/NE555-Timer-Monostable-Mode)
