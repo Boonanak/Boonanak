@@ -13,7 +13,8 @@
   - [NPN OR Gate](https://github.com/Boonanak/NPN-OR-Gate)
   - [NPN AND Gate](https://github.com/Boonanak/NPN-AND-Gate)
 - <b>Analog Logic</b>
-  - [NE555 Timer - Schmitt Trigger 10/6/24](INSERTLINK)
+  - [Passive Low Pass Filters 10/6/24](INSERTLINK)
+  - [Passive High Pass Filters 10/6/24](INSERTLINK)
 - <b>Debugging</b>
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Misc</b>
