@@ -17,6 +17,9 @@
   - [Passive High Pass Filters 10/6/24](INSERTLINK)
 - <b>Debugging</b>
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
+- <b>Tools</b>
+  - [Signal Generator](INSERTLINK)
+  - [Oscilloscope](INSERTLINK)
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
   - [NE555 Timer - Monostable Mode](https://github.com/Boonanak/NE555-Timer-Monostable-Mode)
