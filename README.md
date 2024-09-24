@@ -20,6 +20,7 @@
 - <b>Tools</b>
   - [Signal Generator](INSERTLINK)
   - [Oscilloscope](INSERTLINK)
+  - [Multimeter](INSERTLINK)
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
   - [NE555 Timer - Monostable Mode](https://github.com/Boonanak/NE555-Timer-Monostable-Mode)
