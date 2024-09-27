@@ -7,14 +7,14 @@
 - <b>Raspberry Pi</b>
   - [Modern Day Record Player 2/5/2025](INSERTLINK)</b></i>
 - <b>ESP32</b>
-  - [Smart Home Temperature and Humidity Monitor 12/8/24](INSERTLINK)
+  - [Smart Home Temperature and Humidity Monitor](INSERTLINK)
 - <b>Digital Logic</b>
   - [NPN Inverter (NOT) Gate](https://github.com/Boonanak/NPN-Inverter-NOT-Gate-)
   - [NPN OR Gate](https://github.com/Boonanak/NPN-OR-Gate)
   - [NPN AND Gate](https://github.com/Boonanak/NPN-AND-Gate)
 - <b>Analog Logic</b>
   - [Passive Low Pass Filters](https://github.com/Boonanak/Passive-Low-Pass-Filters)
-  - [Passive High Pass Filters 10/6/24](INSERTLINK)
+  - [Passive High Pass Filters](INSERTLINK)
 - <b>Debugging</b>
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Tools</b>
