@@ -14,7 +14,7 @@
   - [NPN AND Gate](https://github.com/Boonanak/NPN-AND-Gate)
 - <b>Analog Logic</b>
   - [Passive Low Pass Filters](https://github.com/Boonanak/Passive-Low-Pass-Filters)
-  - [Passive High Pass Filters](INSERTLINK)
+  - [Passive High Pass Filters](https://github.com/Boonanak/Passive-High-Pass-Filters)
 - <b>Debugging</b>
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Tools</b>
