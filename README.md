@@ -18,7 +18,7 @@
 - <b>Debugging</b>
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Tools</b>
-  - [Signal Generator](INSERTLINK)
+  - [Waveform Generator](https://github.com/Boonanak/Waveform-Generator)
   - [Oscilloscope](INSERTLINK)
   - [Multimeter](INSERTLINK)
 - <b>Misc</b>
