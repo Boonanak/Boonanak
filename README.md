@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sean! (he/him)<br/><a href="https://www.linkedin.com/in/sean-bubernak-81917325b">Engineer</a>, <a href="https://www.washington.edu/">Student</a>, <a href="https://sites.google.com/view/bubernakleadershipportfolio/home">Educator</a></h1>
 
-<h2>👨‍💻 Embedded Systems Projects:</h2>
+<h2>👨‍💻 Embedded Systems Protects:</h2>
 
 - <b>Arduino</b>
   - [Digital Clock with Alarm](https://github.com/Boonanak/Digital-Clock-with-Alarm)
