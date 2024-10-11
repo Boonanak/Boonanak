@@ -19,7 +19,7 @@
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Tools</b>
   - [Waveform Generator](https://github.com/Boonanak/Waveform-Generator)
-  - [Oscilloscpoe](INSERTLINK)
+  - [Oscilloscope](INSERTLINK)
   - [Multimeter](INSERTLINK)
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
