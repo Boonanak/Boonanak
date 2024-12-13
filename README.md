@@ -5,7 +5,7 @@
 - <b>Arduino</b>
   - [Digital Clock with Alarm](https://github.com/Boonanak/Digital-Clock-with-Alarm)
 - <b>Raspberry Pi</b>
-  - [Modern Day Record Player 2/5/2025](INSERTLINK)</b></i>
+  - [Raspberry Pi 1B WiFi Guide](https://github.com/Boonanak/RaspberryPi1B-WiFi-Guide)
 - <b>ESP32</b>
   - [Smart Home Temperature and Humidity Monitor](INSERTLINK)
 - <b>Digital Logic</b>
