@@ -7,7 +7,7 @@
 - <b>Raspberry Pi</b>
   - [Raspberry Pi 1B WiFi Guide](https://github.com/Boonanak/RaspberryPi1B-WiFi-Guide)
 - <b>ESP32</b>
-  - [Smart Home Temperature and Humidity Monitor](INSERTLINK)
+  - [Embedded Data Logger](https://github.com/Boonanak/Embedded-Data-Logger)
 - <b>Digital Logic</b>
   - [NPN Inverter (NOT) Gate](https://github.com/Boonanak/NPN-Inverter-NOT-Gate-)
   - [NPN OR Gate](https://github.com/Boonanak/NPN-OR-Gate)
