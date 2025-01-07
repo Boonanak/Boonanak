@@ -7,7 +7,7 @@
 - <b>Raspberry Pi</b>
   - [Raspberry Pi 1B WiFi Guide](https://github.com/Boonanak/RaspberryPi1B-WiFi-Guide)
 - <b>ESP32</b>
-  - [Learning ESP32] (INSERTLINK)
+  - [Learning ESP32](INSERTLINK)
   - [Embedded Data Logger](https://github.com/Boonanak/Embedded-Data-Logger)
 - <b>Digital Logic</b>
   - [NPN Inverter (NOT) Gate](https://github.com/Boonanak/NPN-Inverter-NOT-Gate-)
