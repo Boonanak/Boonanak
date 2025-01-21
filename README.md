@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sean! (he/him)<br/><a href="https://www.linkedin.com/in/sean-bubernak-81917325b">Engineer</a>, <a href="https://www.washington.edu/">Student</a>, <a href="https://sites.google.com/view/bubernakleadershipportfolio/home">Educator</a></h1>
 
-<h2>👨‍💻 Embedded Systems Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Arduino</b>
   - [Digital Clock with Alarm](https://github.com/Boonanak/Digital-Clock-with-Alarm)
@@ -21,9 +21,7 @@
 - <b>Debugging</b>
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Tools</b>
-  - [Waveform Generator](https://github.com/Boonanak/Waveform-Generator)
-  - [Oscilloscope](INSERTLINK)
-  - [Multimeter](INSERTLINK)
+  - [Waveform Generator / Oscilloscope](https://github.com/Boonanak/Waveform-Generator)
 - <b>Misc</b>
   - [NE555 Timer - Astable Mode](https://github.com/Boonanak/NE555-Timer---Astable-Mode)
   - [NE555 Timer - Monostable Mode](https://github.com/Boonanak/NE555-Timer-Monostable-Mode)
