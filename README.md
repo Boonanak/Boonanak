@@ -18,6 +18,8 @@
   - [Passive High Pass Filters](https://github.com/Boonanak/Passive-High-Pass-Filters)
   - [Active Filters](https://github.com/Boonanak/Active-Low-Pass-Filters)
   - [Schmitt Trigger](INSERTLINK)
+- <b>Software</b>
+  - [Kernighan & Ritchie Excercies, C](https://github.com/Boonanak/Kernighan-and-Ritchie-Exercises-C)
 - <b>Debugging</b>
   - [I2C Device Address Finder](https://github.com/Boonanak/I2C-Device-Address-Finder)
 - <b>Tools</b>
