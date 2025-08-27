@@ -11,6 +11,7 @@
   - [Embedded Data Logger](https://github.com/Boonanak/Embedded-Data-Logger)
 - <b>Digital Logic</b>
   - [System Verilog Basics](https://github.com/Boonanak/System-Verilog-Basics)
+  - [Lot Occupancy Counter](https://github.com/Boonanak/Lot-Occupancy-Counter)
   - [NPN Inverter (NOT) Gate](https://github.com/Boonanak/NPN-Inverter-NOT-Gate-)
   - [NPN OR Gate](https://github.com/Boonanak/NPN-OR-Gate)
   - [NPN AND Gate](https://github.com/Boonanak/NPN-AND-Gate)
